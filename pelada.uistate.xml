@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout active="1" order="0">Login</layout>
+        <layout order="2">Game</layout>
+        <event-sheet order="1">Login events</event-sheet>
+        <event-sheet order="3">Game events</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="0" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1">
+        <family expanded="1" name="AimSpotFamily" />
+        <family expanded="1" name="ZIndexChars" />
+        <family expanded="0" name="controles" />
+    </families-expanded>
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="1" path="object-folder/Login screen/" />
+        <folder expanded="1" path="object-folder/Game/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/AimSpot/" />
+        <folder expanded="1" path="animation-folder/Peer/" />
+        <folder expanded="1" path="animation-folder/PeerLaser/" />
+        <folder expanded="1" path="animation-folder/ball/" />
+        <folder expanded="1" path="animation-folder/Sprite/" />
+        <folder expanded="1" path="animation-folder/SCROOL/" />
+        <folder expanded="1" path="animation-folder/btn_left/" />
+        <folder expanded="1" path="animation-folder/btn_up/" />
+        <folder expanded="1" path="animation-folder/btn_right/" />
+        <folder expanded="1" path="animation-folder/btn_down/" />
+        <folder expanded="1" path="animation-folder/Illegibilus/" />
+        <folder expanded="1" path="animation-folder/TRAVE_ESQUERDA/" />
+        <folder expanded="1" path="animation-folder/TRAVE_DIREITA/" />
+        <folder expanded="1" path="animation-folder/iconcc/" />
+        <folder expanded="1" path="animation-folder/iconcc2/" />
+        <folder expanded="1" path="animation-folder/iconcc3/" />
+        <folder expanded="1" path="animation-folder/btn_up_right/" />
+        <folder expanded="1" path="animation-folder/btn_down_right/" />
+        <folder expanded="1" path="animation-folder/btn_down_left/" />
+        <folder expanded="1" path="animation-folder/btn_up_left/" />
+        <folder expanded="1" path="animation-folder/mask_control/" />
+        <folder expanded="1" path="animation-folder/key_up/" />
+        <folder expanded="1" path="animation-folder/key_down/" />
+        <folder expanded="1" path="animation-folder/key_left/" />
+        <folder expanded="1" path="animation-folder/key_right/" />
+        <folder expanded="1" path="animation-folder/key_up_left/" />
+        <folder expanded="1" path="animation-folder/key_up_right/" />
+        <folder expanded="1" path="animation-folder/key_down_right/" />
+        <folder expanded="1" path="animation-folder/key_down_left/" />
+        <folder expanded="1" path="animation-folder/iconcc4/" />
+    </folders-expanded>
+</c2uistate>
